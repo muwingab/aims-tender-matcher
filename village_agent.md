@@ -166,6 +166,27 @@ Assume 15% activation rate (cooperative leader takes action after call):
 
 ---
 
+## Rwanda-Specific Implementation Note
+
+In Rwanda, every administrative Sector (Umurenge) has a designated
+Cooperative Development Officer employed by the local government.
+These officers already work directly with cooperatives on capacity
+building, financial literacy, and grant applications. They are the
+natural human agents for this workflow — no new hiring required for
+the Rwanda pilot.
+
+The weekly lead report goes to the Sector Cooperative Development
+Officer who:
+- Already has relationships with all cooperatives in their Sector
+- Speaks Kinyarwanda natively
+- Has institutional credibility with cooperative leaders
+- Can assist with the actual grant application process
+
+This reduces the agent cost significantly for Rwanda — the officer
+is already on government payroll. Pilot cost for Rwanda drops to
+SMS/voice package costs only (~2,000 RWF/month) with zero agent
+salary overhead.
+
 ## What Breaks First
 
 - **Agent quality:** the system summary is only as good as the agent's

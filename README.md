@@ -88,8 +88,8 @@ Saved to summaries/profile_[id]_tender_[id].md
   would improve quality at cost of API dependency
 
 ## Model & Dataset
-TF-IDF vectorizer fitted at runtime — no pretrained weights to download.
-Dataset: [LINK TO BE ADDED]
+TF-IDF vectorizer fitted at runtime,no pretrained weights to download.
+Dataset and model: https://drive.google.com/drive/folders/1ArVy8Wdhe1QI2oGEt2Xtv0ZT6i4dD60E?usp=sharing
 
 ## Video
 [LINK TO BE ADDED]
