@@ -1,0 +1,20 @@
+AVIS D'APPEL D'OFFRES — FONDS AGRICULTURE DE PRÉCISION FRANCOPHONE [T34]
+Référence: T34
+Langue: Français
+Secteur: agritech
+Budget: USD 200,000
+Date limite: 2026-07-07
+Région: West Africa
+Éligibilité: Entreprises agritech utilisant données satellitaires ou drones pour l'analyse agricole
+
+APERÇU
+Cette subvention soutient les plateformes agritech qui utilisent la télédétection, les images satellitaires et les capteurs IoT pour fournir des informations exploitables aux agriculteurs sur la santé des sols, les conditions météorologiques et les performances des cultures. Les solutions doivent démontrer un coût par agriculteur inférieur à 20 USD par saison à grande échelle.
+
+EXIGENCES DE CANDIDATURE
+Les accords de licence de données pour les images satellitaires ou aériennes doivent être soumis avec la candidature. Les candidats doivent se conformer aux réglementations nationales de l'aviation concernant les opérations de drones. Les politiques de confidentialité des données agricoles doivent être incluses. Le bailleur peut demander une démonstration technique dans le cadre de la diligence raisonnable.
+
+CONTACT
+Toutes les demandes doivent être soumises par écrit via le portail officiel
+des subventions. Aucune demande téléphonique ne sera acceptée. L'organisme
+d'attribution se réserve le droit de modifier ces conditions à tout moment
+avant la date limite de candidature.

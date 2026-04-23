@@ -1,0 +1,41 @@
+tender_id,title,sector,budget_usd,deadline,language,region
+T01,Community Health Worker Tech Grant [T01],healthtech,50000,2026-06-12,en,Sub-Saharan Africa
+T02,InsurTech for Agriculture Grant [T02],fintech,200000,2026-06-22,en,East Africa
+T03,Waste Management Innovation Fund [T03],wastetech,50000,2026-06-02,en,West Africa
+T04,Mobile Money for Agri-Finance [T04],fintech,50000,2026-06-07,en,East Africa
+T05,Digital Agriculture Innovation Grant [T05],agritech,50000,2026-06-07,en,East Africa
+T06,EdTech Teacher Training Platform Grant [T06],edtech,50000,2026-05-28,en,Sub-Saharan Africa
+T07,Agritech Market Linkage Seed Grant [T07],agritech,5000,2026-05-18,en,East Africa
+T08,Mobile Money for Agri-Finance [T08],fintech,50000,2026-06-07,en,East Africa
+T09,Agritech Cold Chain Logistics Fund [T09],agritech,200000,2026-07-12,en,Sub-Saharan Africa
+T10,EdTech for Inclusive Learning Grant [T10],edtech,50000,2026-05-23,en,Pan-Africa
+T11,Solar Energy for Schools Grant [T11],cleantech,50000,2026-05-23,en,East Africa
+T12,Fintech Financial Inclusion Challenge [T12],fintech,200000,2026-06-12,en,Pan-Africa
+T13,Community Health Worker Tech Grant [T13],healthtech,50000,2026-06-12,en,Sub-Saharan Africa
+T14,Clean Energy Access Fund [T14],cleantech,1000000,2026-07-22,en,Sub-Saharan Africa
+T15,E-Waste Recycling Technology Grant [T15],wastetech,200000,2026-06-22,en,Pan-Africa
+T16,EdTech Teacher Training Platform Grant [T16],edtech,50000,2026-05-28,en,Sub-Saharan Africa
+T17,Agritech Cold Chain Logistics Fund [T17],agritech,200000,2026-07-12,en,Sub-Saharan Africa
+T18,Urban Composting Innovation Grant [T18],wastetech,50000,2026-05-28,en,West Africa
+T19,Plastic Waste Valorization Grant [T19],wastetech,200000,2026-07-02,en,Pan-Africa
+T20,HealthTech Diagnostics Grant [T20],healthtech,200000,2026-06-17,en,Sub-Saharan Africa
+T21,CleanTech SME Scale-Up Grant [T21],cleantech,200000,2026-07-02,en,East Africa
+T22,EdTech for Inclusive Learning Grant [T22],edtech,50000,2026-05-23,en,Pan-Africa
+T23,Rural Health Technology Accelerator [T23],healthtech,200000,2026-06-22,en,Sub-Saharan Africa
+T24,EdTech Language Learning Grant [T24],edtech,200000,2026-06-17,en,Pan-Africa
+T25,Subvention Innovation Agritech [T25],agritech,50000,2026-06-07,fr,West Africa
+T26,Fonds Technologie Santé Rurale [T26],healthtech,50000,2026-06-02,fr,West Africa
+T27,Programme Énergie Propre Communautaire [T27],cleantech,200000,2026-07-12,fr,West Africa
+T28,Appel à Projets EdTech Francophone [T28],edtech,50000,2026-05-28,fr,West Africa
+T29,Défi Inclusion Financière Numérique [T29],fintech,200000,2026-06-17,fr,West Africa
+T30,Fonds Innovation Gestion des Déchets [T30],wastetech,50000,2026-06-02,fr,Central Africa
+T31,Subvention Agriculteurs Connectés [T31],agritech,5000,2026-05-18,fr,West Africa
+T32,Programme Diagnostic Santé Numérique [T32],healthtech,200000,2026-06-27,fr,Central Africa
+T33,Appel à Projets Énergie Solaire Scolaire [T33],cleantech,50000,2026-05-23,fr,West Africa
+T34,Fonds Agriculture de Précision Francophone [T34],agritech,200000,2026-07-07,fr,West Africa
+T35,Programme Monnaie Mobile Agricole [T35],fintech,50000,2026-06-07,fr,West Africa
+T36,Appel à Candidatures Déchets Plastiques [T36],wastetech,200000,2026-07-02,fr,West Africa
+T37,Fonds Compostage Urbain Francophone [T37],wastetech,50000,2026-05-28,fr,West Africa
+T38,Programme Formation Enseignants Numérique [T38],edtech,50000,2026-06-02,fr,West Africa
+T39,Fonds Bâtiments Verts Durables [T39],cleantech,200000,2026-06-27,fr,Central Africa
+T40,Appel à Projets Apprentissage Linguistique [T40],edtech,200000,2026-06-17,fr,Pan-Africa

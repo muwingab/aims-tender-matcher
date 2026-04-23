@@ -1,0 +1,19 @@
+TENDER NOTICE — COMMUNITY HEALTH WORKER TECH GRANT [T13]
+Tender ID: T13
+Language: English
+Sector: healthtech
+Budget: USD 50,000
+Deadline: 2026-06-12
+Region: Sub-Saharan Africa
+Eligibility: HealthTech companies partnering with community health worker programs
+
+OVERVIEW
+Funding is available for digital tools that enhance the effectiveness and accountability of community health workers, including data collection apps, referral management systems, and supervision tools. Offline-first mobile applications with robust data synchronization are the preferred technical approach.
+
+APPLICATION REQUIREMENTS
+Proof of formal agreement with a national or county community health worker program must be submitted. Solutions must not require internet connectivity for core functionality. User testing evidence with at least 20 community health workers must be included. The grantor will conduct a mid-term review to assess progress against agreed milestones.
+
+CONTACT
+All inquiries must be submitted in writing via the official grants portal.
+No telephone inquiries will be entertained. The granting body reserves
+the right to amend these terms at any time prior to the application deadline.

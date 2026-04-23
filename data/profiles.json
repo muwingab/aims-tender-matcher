@@ -1,0 +1,124 @@
+[
+  {
+    "id": "01",
+    "name": "AgroSmart Rwanda",
+    "sector": "agritech",
+    "country": "Rwanda",
+    "employees": 12,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "We build precision agriculture and crop disease detection tools for smallholder farmers in Rwanda and East Africa. Our mobile app provides weather alerts, soil health insights, and direct market linkage, reducing post-harvest losses.",
+    "past_funding": 15000
+  },
+  {
+    "id": "02",
+    "name": "SantéMobile Sénégal",
+    "sector": "healthtech",
+    "country": "Senegal",
+    "employees": 8,
+    "languages": [
+      "fr"
+    ],
+    "needs_text": "Nous développons des outils de diagnostic mobile et de télésanté pour les agents de santé communautaires au Sénégal. Notre application hors ligne permet la collecte de données patients et la gestion des référencements dans les zones rurales.",
+    "past_funding": 20000
+  },
+  {
+    "id": "03",
+    "name": "CleanGrid Kenya",
+    "sector": "cleantech",
+    "country": "Kenya",
+    "employees": 25,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "CleanGrid deploys solar mini-grids and battery storage systems to off-grid communities in Kenya and Tanzania. We have installed over 50 systems serving 3,000 households and are scaling to 200 more communities.",
+    "past_funding": 150000
+  },
+  {
+    "id": "04",
+    "name": "EduNova DRC",
+    "sector": "edtech",
+    "country": "DRC",
+    "employees": 6,
+    "languages": [
+      "fr"
+    ],
+    "needs_text": "EduNova développe des contenus éducatifs en langues locales pour les enfants de la RDC. Notre plateforme hors ligne fonctionne sur des tablettes à faible coût et aligne les cours avec le programme national congolais.",
+    "past_funding": 10000
+  },
+  {
+    "id": "05",
+    "name": "PayLeaf Ethiopia",
+    "sector": "fintech",
+    "country": "Ethiopia",
+    "employees": 15,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "PayLeaf offers mobile savings, micro-credit, and crop insurance products to smallholder farmers and rural VSLAs in Ethiopia. We integrate with Telebirr and local MFIs to reach the unbanked population.",
+    "past_funding": 30000
+  },
+  {
+    "id": "06",
+    "name": "RecycloHub Kigali",
+    "sector": "wastetech",
+    "country": "Rwanda",
+    "employees": 18,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "needs_text": "RecycloHub collecte et valorise les déchets plastiques et organiques à Kigali. We operate three collection centers and produce recycled plastic paving blocks sold to construction companies across Rwanda and neighboring countries.",
+    "past_funding": 25000
+  },
+  {
+    "id": "07",
+    "name": "HealthBridge Uganda",
+    "sector": "healthtech",
+    "country": "Uganda",
+    "employees": 30,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "HealthBridge builds interoperable electronic medical records and health information systems for primary health facilities in East Africa. Our FHIR-compliant platform serves 120 clinics in Kenya and Uganda.",
+    "past_funding": 80000
+  },
+  {
+    "id": "08",
+    "name": "GreenBuild Dakar",
+    "sector": "cleantech",
+    "country": "Senegal",
+    "employees": 20,
+    "languages": [
+      "fr"
+    ],
+    "needs_text": "GreenBuild produit des briques en terre compressée et des matériaux d'isolation biosourcés à Dakar. Nos matériaux réduisent les émissions de carbone dans la construction et sont 40 % moins chers que le ciment importé.",
+    "past_funding": 40000
+  },
+  {
+    "id": "09",
+    "name": "FarmLink Kenya",
+    "sector": "agritech",
+    "country": "Kenya",
+    "employees": 10,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "needs_text": "FarmLink connects smallholder farmers to buyers via a digital marketplace with real-time commodity price data and SMS alerts. We use satellite imagery and IoT sensors to provide soil and weather analytics to 5,000 farmers in Kenya.",
+    "past_funding": 35000
+  },
+  {
+    "id": "10",
+    "name": "WasteWise Kinshasa",
+    "sector": "wastetech",
+    "country": "DRC",
+    "employees": 14,
+    "languages": [
+      "fr"
+    ],
+    "needs_text": "WasteWise Kinshasa gère des centres de collecte et de tri des déchets solides municipaux à Kinshasa. Nous transformons les déchets plastiques en pavés et les déchets organiques en compost vendu aux agriculteurs urbains.",
+    "past_funding": 18000
+  }
+]
